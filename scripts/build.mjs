@@ -1,5 +1,5 @@
-// Copyright @ 2018-2022 xiejiahe. All rights reserved. MIT license.
-// See https://github.com/xjh22222228/nav
+// Copyright @ 2021-2022 番茄酱. All rights reserved. MIT license.
+// See https://blog.aidengrong.top
 
 import fs from 'fs'
 import config from '../nav.config.js'
@@ -43,7 +43,7 @@ const authorName = s[s.length - 2]
 const repoName = s[s.length - 1]
 
 const htmlTemplate = `
-  <!-- https://github.com/xjh22222228/nav -->
+  <!-- https://blog.aidengrong.top -->
   <title>${title}</title>
   <meta name="description" content="${description}">
   <meta name="keywords" content="${keywords}">
@@ -70,7 +70,7 @@ ${cnzzScript}
 `.trim()
 
 let seoTemplate = `
-<div data-url="https://github.com/xjh22222228/nav" style="z-index:-1;position:fixed;top:-10000vh;left:-10000vh;">
+<div data-url="https://blog.aidengrong.top" style="z-index:-1;position:fixed;top:-10000vh;left:-10000vh;">
 `
 
 async function buildSeo() {
