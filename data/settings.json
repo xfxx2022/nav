@@ -6,7 +6,7 @@
   "showGithub": false,
   "title": "番茄导航 - 精选实用导航网站",
   "description": "番茄导航 - 精选实用导航网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+  "keywords": "番茄导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
   "theme": "Sim",
   "appTheme": "App",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2021-2022 番茄酱, All Rights Reserved</div>",
