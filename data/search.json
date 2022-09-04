@@ -1,7 +1,7 @@
 [
   {
     "name": "站内",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
+    "icon": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/9cf7c89c98659771a04a8150a81f7487-d306c6.png",
     "placeholder": "站内搜索",
     "blocked": false,
     "isInner": true
@@ -9,7 +9,7 @@
   {
     "name": "百度",
     "url": "https://www.baidu.com/s?wd=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/baidu.svg",
+    "icon": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/96b49b505b14b4d536e6cb7f93bc8fc5-5b0a54.svg",
     "placeholder": "百度一下",
     "blocked": false,
     "isInner": false
@@ -17,21 +17,21 @@
   {
     "name": "Google",
     "url": "https://www.google.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/google.svg",
+    "icon": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/d3f7d7cc464dcc75585a2223277396b4-96ea6b.svg",
     "blocked": false,
     "isInner": false
   },
   {
     "name": "必应",
     "url": "https://cn.bing.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
+    "icon": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/75792bde167a0a9de26bb3ba7fe055b2-bf28d9.svg",
     "blocked": false,
     "isInner": false
   },
   {
     "name": "GitHub",
     "url": "https://github.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/github.svg",
+    "icon": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/7e9b728de0e91170302395b8c406237c-017dff.svg",
     "placeholder": "Search GitHub",
     "blocked": false,
     "isInner": false
@@ -39,14 +39,14 @@
   {
     "name": "知乎",
     "url": "https://www.zhihu.com/search?type=content&q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/zhihu.svg",
+    "icon": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/448c179777d7eb99371eb49be6b3f78e-c57610.svg",
     "blocked": false,
     "isInner": false
   },
   {
     "name": "豆瓣",
     "url": "https://search.douban.com/book/subject_search?search_text=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/douban.svg",
+    "icon": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/2665e777b0fd04d7a8770874e01231c2-a7c490.svg",
     "placeholder": "书名、作者、ISBN",
     "blocked": false,
     "isInner": false
