@@ -31,7 +31,7 @@
   {
     "name": "GitHub",
     "url": "https://github.com/search?q=",
-    "icon": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/7e9b728de0e91170302395b8c406237c-017dff.svg",
+    "icon": "https://p1.xywm.ltd/2023/01/01/63b133cc51c30.png",
     "placeholder": "Search GitHub",
     "blocked": false,
     "isInner": false
@@ -39,14 +39,14 @@
   {
     "name": "知乎",
     "url": "https://www.zhihu.com/search?type=content&q=",
-    "icon": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/448c179777d7eb99371eb49be6b3f78e-c57610.svg",
+    "icon": "https://static.zhihu.com/heifetz/favicon.ico",
     "blocked": false,
     "isInner": false
   },
   {
     "name": "豆瓣",
     "url": "https://search.douban.com/book/subject_search?search_text=",
-    "icon": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/2665e777b0fd04d7a8770874e01231c2-a7c490.svg",
+    "icon": "https://www.douban.com/favicon.ico",
     "placeholder": "书名、作者、ISBN",
     "blocked": false,
     "isInner": false
