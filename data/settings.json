@@ -9,7 +9,7 @@
   "keywords": "番茄导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
   "theme": "Sim",
   "appTheme": "Light",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2021-2022 番茄酱, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2021-2023 番茄酱, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
   "baiduStatisticsUrl": "//hm.baidu.com/hm.js?cba9e42cd4313184ca63e0458b55b3d1",
   "cnzzStatisticsUrl": "",
@@ -32,13 +32,13 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/d7f5484a0840b5f5bf5590815cd71497-588ad9.jpeg",
+      "src": "https://p1.xywm.ltd/2023/01/01/63b12ae996a45.jpg",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/046ca1a3f0ada5dfbb6f2293a044a37b-0a7458.jpg",
+      "src": "https://p1.xywm.ltd/2023/01/01/63b1206a3bee6.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -49,7 +49,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/ce8da527cb676ea2437f2e53a3a22238-0601c6.jpeg",
+      "src": "https://p1.xywm.ltd/2023/01/01/63b1206a3bee6.jpg",
       "url": "",
       "width": null,
       "height": null
