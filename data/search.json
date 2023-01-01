@@ -9,7 +9,7 @@
   {
     "name": "百度",
     "url": "https://www.baidu.com/s?wd=",
-    "icon": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/96b49b505b14b4d536e6cb7f93bc8fc5-5b0a54.svg",
+    "icon": "https://www.baidu.com/favicon.ico",
     "placeholder": "百度一下",
     "blocked": false,
     "isInner": false
