@@ -17,14 +17,14 @@
   {
     "name": "Google",
     "url": "https://www.google.com/search?q=",
-    "icon": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/d3f7d7cc464dcc75585a2223277396b4-96ea6b.svg",
+    "icon": "https://p1.xywm.ltd/2023/01/01/63b132f9b7096.ico",
     "blocked": false,
     "isInner": false
   },
   {
     "name": "必应",
     "url": "https://cn.bing.com/search?q=",
-    "icon": "https://7072-prod-5gns2rsg1b723f47-1308850677.tcb.qcloud.la/img/2022/09/04/75792bde167a0a9de26bb3ba7fe055b2-bf28d9.svg",
+    "icon": "https://cn.bing.com/sa/simg/favicon-trans-bg-blue-mg.ico",
     "blocked": false,
     "isInner": false
   },
